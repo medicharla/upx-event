@@ -1,0 +1,489 @@
+/*--------------------------- section-1 -------------------------------------------*/
+body{
+    margin:0;
+    padding: 0;
+}
+.bg-overlay-1 {
+    background: linear-gradient(rgb(48, 56, 68,0.9), rgba(48, 56, 68,0.9)), url("/assets/images/img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 860px; 
+}
+.row.r1{
+    padding-top: 80px;
+}
+h1.course-description {
+    color: white;
+    text-align: center; 
+    margin-bottom: 70px;
+}
+.description h3 {
+    font-weight: 300;
+}
+p#timer {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+.frm{
+    color: black;
+}
+.btn {
+    color: #fff;
+    background-color: #ea5b0c;
+    padding: 7px 82px 7px 85px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.feather-phone.phone {
+    height: 65px;
+    width: 45px;
+}
+.row.info {
+    padding-left: 55px;
+}
+.enquiries {
+    font-size: 18px;
+}
+.number {
+    font-size: 30px;
+    font-weight: 100;
+}
+.free {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+.schedule {
+    color: #ea5b0c;
+    font-weight: 700;
+    font-size: 13px;
+    text-align: center;
+    border-top: 2px solid #ea5b0c;
+    padding: 5px 0px 5px 0px;
+}
+.june-4 {
+    border-right: 2px solid #ea5b0c;
+    padding-right: 10px;
+}
+.june-5 {
+    border-right: 2px solid #ea5b0c;
+    padding-right: 10px;
+}
+.card.login {
+    background: none;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+.card-header { 
+    text-align: center;
+}
+.card-body.p-4 {
+    background: white;
+    border-radius: 15px;
+}
+/*--------------------------- End -------------------------------------------*/
+
+
+/*--------------------------- section-2 -------------------------------------------*/
+.card.c2{
+    border:1px solid black;
+}
+
+#static-2 {
+    position: relative;
+    top: -200px;
+    left: 0px;
+    bottom: 66px;
+    height: 180px;
+}
+
+.imgs{
+    display: block;
+    margin-bottom: 20px;
+    height: 70px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+.light-text {
+    padding-bottom: 1%;
+    
+}
+.card-text{
+    text-align: center;
+}
+
+
+
+.logo1{
+    margin-top: 5%;
+}
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.agenda {
+    color: white;
+    margin: 30px 0px;
+    border-left: 10px solid #ea5b0c;
+    padding-left: 15px;
+}
+.img-text-align {
+    margin: 120px 220px 0px 340px;
+}
+.img-text{
+    text-align: center;
+    position: relative;
+    right: 36px;
+    top: 10px;
+}
+/*--------------------------- End -------------------------------------------*/
+
+/*--------------------------- section-3 -------------------------------------------*/
+
+#static3{
+    padding: 50px 0px 0px 0px;
+}
+svg.feather.feather-mic.mic {
+    width: 50px;
+    height: 50px;
+    stroke: white;
+}
+.img-man{
+    padding:0px 0px 0px 0px;
+}
+.bg-overlay {
+    background: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)), url("/assets/images/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 530px;
+   
+}
+
+.overlay{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(179, 179, 214, 0.7);
+}
+.background-image {
+    background: url('assets/images/img1.jpg') repeat;
+  }
+  
+  
+#img1{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    opacity: 0.2;
+}
+#logo{
+   
+    min-width: 10px; 
+    min-height: 10px;
+    opacity: 0.2;
+}
+.feather {
+    width: 60px;
+    height: 70px;
+    stroke: #FFFFFF;
+    stroke-width: 0.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+    position: relative;
+    left: 7px;
+    top: -11px;
+}
+.speakers {
+    text-align: center;
+    font-size: 40px;
+
+    color: #ea5b0c;
+}
+.icon-text{
+    text-align: center;
+    position: relative;
+    top: 15px;
+}
+/*--------------------------- end -------------------------------------------*/
+
+/*--------------------------- section-4 -------------------------------------------*/
+.bg-overlay-4 {
+    background: linear-gradient(rgba(48, 56, 68,0.9), rgba(48, 56, 68,0.9)), url("/assets/images/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 650px;
+   
+}
+.world {
+    font-size: 40px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.world-text {
+    font-size: 22px;
+    padding-bottom: 10px;
+    
+}
+.container.w1 {
+    width: 100%;
+    padding-right: 60px;
+    padding-left: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mt-3, .my-3 {
+    margin-top: 4rem!important;
+}
+.database {
+    padding: 50px 0px 10px 65px;
+    
+}
+/*--------------------------- end -------------------------------------------*/
+
+/*--------------------------- section-5 -------------------------------------------*/
+.data {
+    font-size: 25px;
+    font-weight: 600;
+}
+.learn{
+    font-size: 25px;
+    font-weight: 200px;
+}
+.yellow {
+    color:#FFFFFF;
+    background-image: linear-gradient(-90deg, #f4b33d, #f7e41e);
+    font-size: 15px;
+    padding: 17px 35px 17px 35px;
+}
+.green {
+    color:#FFFFFF;
+    background-image: linear-gradient(-90deg, #168135, #7eb62a);
+    font-size: 15px;
+    padding: 17px 35px 17px 35px;
+}
+.blue {
+    color:#FFFFFF;
+    background-image: linear-gradient(-90deg, #22b0c1, #197abb);
+    font-size: 15px;
+    padding: 17px 35px 17px 35px;
+}
+.red {
+    color:#FFFFFF;
+    background-image: linear-gradient(-90deg, #f28c00, #eb5e10);
+    font-size: 15px;
+    padding: 17px 35px 17px 35px;
+}
+.grad{
+    padding-left: 4%;
+}
+.border-dark {
+    padding: 15px 10px 16px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-color: #c0c0c0!important;
+}
+
+.feather {
+    width: 25px;
+    height: 25px;
+    stroke-width: 0.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    position: relative;
+    left: 0px;
+    top: -11px;
+}
+.star-1{
+    fill: #f7cc31; 
+}
+.star-2{
+    fill: #539a32; 
+}
+.star-3{
+    fill: #2090c0; 
+}
+.star-4{
+    fill: #ed6e07; 
+}
+.learn {
+    position: relative;
+    top: 60px;
+    left: 5%;
+    font-size: 25px;
+    
+}
+.container {
+    max-width: 1220px;
+}
+
+
+.space{
+    padding-bottom: 5%;
+    margin: 0px 100px 0px 100px;
+}
+hr{
+    
+    width: 90%;
+}
+/*--------------------------- end -------------------------------------------*/
+
+/*--------------------------- section-6 -------------------------------------------*/
+section#static6 {
+    padding-top: 30px;
+}
+.bg-overlay-6 {
+    background: linear-gradient(rgb(48, 56, 68), rgba(48, 56, 68,0.7)), url("/assets/images/keyboard.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 600px; 
+}
+.weeks{
+    padding-bottom: 9%;
+}
+.week{
+    padding-top: 25%;
+
+}
+#static5{
+    background-color:#eee;
+    height: 700px;
+    padding: 20px 0px 0px 0px;
+    border: 1px solid lightgrey;
+    
+}
+#static5-1{
+    background-color:#eee;
+    height: 700px;
+    padding: 20px 0px 0px 0px;
+    border: 1px solid lightgrey;
+    
+}
+.card.speak{
+    width:40rem;
+    font-size: 15px;
+    margin: 0 auto;  
+    float: none;   
+    margin-bottom: 10px;
+    border:none;
+    background: none;
+
+}
+.card.speak1 {
+    width: 40rem;
+    font-size: 15px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    border: none;
+    background: none;
+    border-top:1px solid dimgray;
+    border-bottom:1px solid dimgray;
+   
+}
+.p.p1 {
+    text-align: justify;
+    align-items: center;
+}
+p.p2 {
+    text-align: right;
+}
+/*--------------------------- end -------------------------------------------*/
+
+
+/*--------------------------- section-7 -------------------------------------------*/
+section#static7 {
+    padding-bottom: 50px;
+}
+.about {
+    text-align: center;
+    font-size: 30px;
+    padding: 40px 0px 35px 0px;
+}
+.card.c1{
+    width:40rem;
+    font-size: 15px;
+    text-align: justify;
+    align-items: center;
+    margin: 0 auto;  
+    float: none;   
+    margin-bottom: 10px;
+    border:none;
+}
+
+.our-courses{
+    text-align: center;
+    font-size: 35px;
+    padding: 35px 0px 35px 0px;
+}
+.col-sm-6.c1{
+    padding: 10px 80px 0px 80px;
+}
+.box{
+    background-color: #333;
+}
+.bigdata{
+    font-size: 20px;
+    font-weight: 800!important;
+    color: white;
+}
+.bigdata-text {
+    color: white;
+    font-size: 20px;
+}
+a:link,a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.know-more {
+    background-color:#ea5b0c;
+    font-size: 15px;
+    padding: 4px 30px 4px 30px;
+    border-radius: 5px 5px 5px 5px;
+}
+.know-more-button{
+    padding: 10px 0px 10px 0px;
+}
+.card-body.our-courses{
+    text-align: center;
+}
+.row.justify-content-center.mb-3 {
+    margin-left: auto;
+    margin-right: auto;
+}
+.mb-3, .my-3 {
+    margin-bottom: 4rem!important;
+}
+/*--------------------------- end -------------------------------------------*/
+/*--------------------------- footer -------------------------------------------*/
+
+.footer {
+    max-height: 5px;
+    background-color: #333;
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 15px 10px 80px 80px;
+}
+
+div#foot {
+    margin-right: 0px;
+}
+/*--------------------------- end -------------------------------------------*/
+
